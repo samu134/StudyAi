@@ -1,0 +1,11 @@
+studyai/
+├── app/
+│   ├── api/              # Backend API routes
+│   ├── dashboard/        # Main dashboard UI
+│   ├── upload/           # File upload interface
+│   ├── study/            # Study session interface
+│   └── page.tsx          # Landing page
+├── lib/                  # Utilities & services
+├── prisma/               # Database schema
+├── README.md             # Full documentation
+└── SETUP.md              # Quick start guide
